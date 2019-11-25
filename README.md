@@ -1,1 +1,1 @@
-# N-Puzzle-Solvers
+# N-Puzzle Solvers
